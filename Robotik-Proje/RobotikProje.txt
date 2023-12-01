@@ -1,0 +1,8 @@
+HXT 900 Micro Servo x4
+Hobby King GT-2 2.4Ghz 2 Ch Tx & Rx
+AAA Battery holder
+-Arduino Pro Mini
+-12 pin header
+-Switch
+-Assorted Wire
+https://www.printables.com/model/225231-eye-walking-robot
